@@ -3,5 +3,4 @@
 - URI uriResult = url.toURI();
 
 
-
-<center><a href="../javase_menu.html">返回</a></center>
+[<center>返回</center>](/JavaSe/javase_menu.md)
