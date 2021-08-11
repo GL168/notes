@@ -150,4 +150,4 @@ EXPLAIN不能显示MySQL在执行查询时所作的优化工作，部分统计�
 EXPALIN只能解释SELECT操作，其他操作要重写为SELECT后查看执行计划。
 
 
-<center><a href="../db_menu.md">返回</a></center>
+[<center>返回</center>](/DB/db_menu.md)
