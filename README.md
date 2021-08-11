@@ -1,6 +1,4 @@
-# notes.github.io
-妙笔生花，记录美好生活
+# notes目录
+# MySQL栏目
+ 1.[MySQL监控参数](./mysql/MySQL监控参数.md)  
 
-# 简单介绍
-每天小笔记
-* git config --global http.sslVerify "false"
