@@ -3,3 +3,4 @@
 
 # 简单介绍
 每天小笔记
+* git config --global http.sslVerify "false"
