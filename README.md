@@ -1,6 +1,8 @@
-# notes目录
-###主页
+# notes目录 
+### 主页
+
 ***https://gl168.github.io/notes/***
+
 <img src="https://gl168.github.io/notes/Images/struggle.png"  width="80%">
 
 ### 简介
