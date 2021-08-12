@@ -13,7 +13,7 @@
 [数据库目录](DB/db_menu.md)
 
 ### JAVASE栏目
-[JAVASE目录](JavaSe/javase_menu.md)
+[JAVASE目录](JavaSE/javase_menu.md)
 
 ### 提交Git安全验证问题
 git config --global http.sslVerify "false"
