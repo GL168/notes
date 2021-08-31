@@ -4,4 +4,4 @@
 ### data日期类 
 2. [日期处理](./net/日期处理.md)
 ### 设计模式
-3. [设计模式用例](https://github.com/GL168/designPatterns-demo)
+3. [设计模式用例](https://github.com/GL168/demo-designPatterns)
