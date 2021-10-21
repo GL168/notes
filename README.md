@@ -13,7 +13,7 @@
 [数据库目录（1）](DB/db_menu.md)
 
 ### JAVASE栏目
-[JAVASE目录（4）](JavaSE/javase_menu.md)
+[JAVASE目录（5）](JavaSE/javase_menu.md)
 
 ### 提交Git安全验证问题
 ~~~

@@ -7,3 +7,5 @@
 3. [设计模式用例](https://github.com/GL168/demo-designPatterns)
 ### 反射信息
 4. [反射操作笔记](./reflect/反射操作笔记.md)
+### Java8新特性
+5. [Stream流用例](./java8/java8新特性Stream.md)
